@@ -8,7 +8,7 @@ import requests
 import os, sys, random
 import time
 from random import choice, randint, shuffle
-try:q4``
+try:
   from pystyle import Center, Anime, Colors, Colorate
 except:
   os.system('pip install pystyle') 
